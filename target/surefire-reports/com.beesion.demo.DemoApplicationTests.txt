@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.beesion.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.164 sec - in com.beesion.demo.DemoApplicationTests
