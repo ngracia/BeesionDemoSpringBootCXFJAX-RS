@@ -37,8 +37,3 @@ http://localhost:8080/servicios/erviciosBeesion/get?value=1(Content-Type  text/p
 
 http://localhost:8080/servicios/serviciosBeesion/jar(GET)(Accept application/octet-stream)
 
-Additional notes:
-
-Para llevar a cabo la disponibilizacion/consumo de servicios se ha utilizado apache CXF.
-
-La eleccion de Apache CXF frente a otras tecnologias similaries aparte de por su relativa sencillez para el desarrollo, es por su buen rendimiento con respecto a otras tecnologias.
